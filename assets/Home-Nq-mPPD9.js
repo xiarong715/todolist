@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./index-Cl3h88C5.js";var r={};function i(n,r){return t(),e(`div`,null,`Home`)}var a=n(r,[[`render`,i]]);export{a as default};
